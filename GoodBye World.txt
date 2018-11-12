@@ -1,0 +1,2 @@
+Print("GoodBye World")
+Print("GoodBye")
